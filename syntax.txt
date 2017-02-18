@@ -16,4 +16,5 @@ git push -u origin master
 git branch test
 git checkout test
 
-
+-create adn send the pull request to master
+-after sending pull request the master will merge and commit the changes to base file or orignal file.
