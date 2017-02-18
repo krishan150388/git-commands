@@ -13,3 +13,7 @@ git push -u origin master
 // if you are using other branch then you will need to pull the request if the user is folked to display
 // him the changes made in his files 
 
+git branch test
+git checkout test
+
+
