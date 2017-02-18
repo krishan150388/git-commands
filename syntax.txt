@@ -1,0 +1,15 @@
+
+
+git config --global user.email "emailid of user"
+git config --global user.name "krishan150388"
+
+git add filename.xyz
+git commit -m "comment for"
+
+git branch // to list all the branches available in git
+git push -u origin master
+
+// after push it will ask for username enter your username and password and your files are uploaded.
+// if you are using other branch then you will need to pull the request if the user is folked to display
+// him the changes made in his files 
+
